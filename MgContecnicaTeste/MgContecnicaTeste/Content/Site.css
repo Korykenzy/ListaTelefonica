@@ -1,0 +1,417 @@
+﻿body {
+    margin: 0;   
+    font-family: Century Gothic;
+    color: #232323;
+    background-color: #ddd;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+body, html {
+    height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1, p, li {
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    color: #222;
+    margin: 0 0 1em;
+}
+
+section li {
+    margin: 0 0 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+section {
+    padding: 30px 30px 30px 80px;
+    -moz-transition: all 200ms ease-in;
+    -webkit-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    transition: all 200ms ease-in;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    margin: 0 0 0 -250px;
+    -moz-transition: all 200ms ease-in;
+    -webkit-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    transition: all 200ms ease-in;
+}
+
+    nav ul {
+        width: 250px;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        background: #124191;
+        overflow: hidden;
+    }
+
+    nav li {
+        margin: 0;
+    }
+
+    nav a {
+        color: #fff;
+        font-size: 1em;
+        font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+        text-decoration: none;
+        display: block;
+        padding: 12px 15px;
+        font-weight: 300;
+        letter-spacing: 2px;
+        border-bottom: 1px solid #dddddd;
+    }
+
+        nav a:hover {
+            background: #658079;
+        }
+
+label {
+    display: block;
+    /*font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;*/
+    font-weight: 600;
+    
+    /*background-image: url(~/);
+    background-image: url('file:///D:\Projetos\Email_Sender\Email_Sender\Email_Sender\Imagem\menu_burguer.png');*/
+    /*Imagem {background: url(imagens/imagem.gif) no-repeat;}*/
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    color: rgba(0, 0, 0, 0.00);
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.1em;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    box-shadow: 5px 5px 10px;
+    /*-moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 6px;
+    -webkit-border-top-left-radius: 6px;
+    -webkit-border-top-right-radius: 6px;*/
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -moz-transition: all 200ms ease-in;
+    -webkit-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    transition: all 200ms ease-in;
+    z-index: 500;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+    input[type="checkbox"]:checked ~ nav {
+        margin: 0;
+    }
+
+    input[type="checkbox"]:checked ~ label {
+        left: 260px;
+    }
+
+    input[type="checkbox"]:checked ~ section {
+        -webkit-transform: translate3d(260px, 0, 0);
+        -moz-transform: translate3d(260px, 0, 0);
+        -o-transform: translate3d(260px, 0, 0);
+        transform: translate3d(260px, 0, 0);
+    }
+
+
+.grid_scroll {
+    overflow: auto;
+    height: 500px;
+    border: solid 1px orange;
+    height: 480px;
+    width: 800px;
+}
+
+.label {
+    display: block !important;
+    font-weight: normal !important;
+    font-family: Century Gothic;
+    font-size: 12pt;
+    color: #656565;
+}
+
+.labelBold {
+    display: block !important;
+    font-family: Century Gothic;
+    font-size: 12pt;
+    font-weight: bold !important;
+    color: #656565;
+}
+
+.labelBoldBranco {
+    display: block !important;
+    font-family: Century Gothic;
+    font-size: 12pt;
+    font-weight: bold !important;
+    color: #FFFFFF;
+}
+
+.labelBoldCenter {
+    display: block !important;
+    font-family: Century Gothic;
+    font-size: 12pt;
+    font-weight: bold !important;
+    color: #656565;
+    text-align:center;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.dvPainelTitulo {
+    display: inline-block;
+    position: relative;
+    width: 180px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px;
+    text-align: center;
+    -moz-border-radius-topleft: 6px;
+    -moz-border-radius-topright: 6px;
+    -webkit-border-top-left-radius: 6px;
+    -webkit-border-top-right-radius: 6px;
+}
+
+.dvFiltros {
+   margin-right:5px;
+}
+
+.dvPainelBody {
+    display: inline-block;
+    position: relative;
+    width: 180px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+}
+   
+    /*-moz-border-radius-bottomleft: 6px;
+    -moz-border-radius-bottomleft: 6px;
+    -webkit-border-bottom-left-radius: 6px;
+    -webkit-border-bottom-right-radius: 6px;
+}*/
+    .botao {
+    height: 38px;
+    width: 190px;
+    border: 1px;
+    border-style: solid;
+    border-color: #0C86C0;
+    /*/ color */
+    /*color: #fff;*/
+    background-color: #0E9CE1;
+    
+    color: #FFFFFF;
+    text-
+    text-font-weight: bold;
+    font-size: 11pt;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+
+
+.botao_editar {
+    height: 30px;
+    width: 90px;
+    border: 1px;
+    border-style: solid;
+   
+    /*/ color */
+    /*color: #fff;*/
+    background-color: #124191;
+    color: #FFFFFF;
+    /*text- text-font-weight: bold;*/
+    font-size: 11pt;
+    font-size: 11pt;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    cursor: pointer;
+}
+.botao_cancela {
+    height: 30px;
+    width: 90px;
+    border: 1px;
+    border-style: solid;
+    /*/ color */
+    /*color: #fff;*/
+    background-color: #E00600;
+    color: #FFFFFF;
+    /*text- text-font-weight: bold;*/
+    font-size: 11pt;
+    font-size: 11pt;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    cursor: pointer;
+}
+
+
+.textbox {
+    text-transform: uppercase;
+    height: 30px;
+    width: 270px;
+    font-family: Century Gothic;
+    font-size: 12pt;
+    color: #222;
+    background-color: #FFFFFF;
+    outline: none;
+    padding: 4px;
+    border: 2px solid #e5e5e5;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.imputnumber {
+    height: 30px;
+    width: 50px;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #656565;
+    outline: none;
+    padding: 5px;
+    border: 2px solid #e5e5e5;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+
+.SelectButton {
+    /*height: 40px;
+    width: 278px;*/
+    background: #fafafa;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid rgba(255,255,255,.8);
+    border: 0px;
+    margin: 4px;
+    padding: 5px;
+    width: 250px;
+    background: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(250,250,250)), color-stop(1, rgb(230,230,230)));
+    background: -moz-linear-gradient( center top, rgb(250,250,250) 0%, rgb(230,230,230) 100%);
+    font-family: Calibri;
+    font-size: 17px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    cursor: pointer;
+    color: #656565;
+    /*box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+    -webkit-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+    -moz-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);*/
+    /* Shadows */
+    box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+    -webkit-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+    -moz-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+}
+
+.SelectButton:hover {
+    background-color:#ddd; 
+    color: #124191;
+}
+
+.campo {
+    text-transform: uppercase;
+    background: #fafafa; /* Fallback color for non-css3 browsers */
+    /* Gradients */
+    background: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(250,250,250)), color-stop(1, rgb(230,230,230)));
+    background: -moz-linear-gradient( center top, rgb(250,250,250) 0%, rgb(230,230,230) 100%);
+    border: 0;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid rgba(255,255,255,.8);
+    font-size: 16px;
+    margin: 4px;
+    padding: 5px;
+    width: 250px;
+    /* Rounded Corners */
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    /* Shadows */
+    box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+    -webkit-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+    -moz-box-shadow: -1px -1px 2px rgba(0,0,0,.3), 0 0 1px rgba(0,0,0,.2);
+}
+    /*** USER IS FOCUSED ON TEXT BOX ***/
+    .campo:focus {
+        outline: none;
+        background: #fff; /* Fallback color for non-css3 browsers */
+        /* Gradients */
+        background: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(255,255,255)), color-stop(1, rgb(235,235,235)));
+        background: -moz-linear-gradient( center top, rgb(255,255,255) 0%, rgb(235,235,235) 100%);
+    }
+.botao_N {
+    height: 38px;
+    width: 190px;
+    border: 1px;
+    border-style: solid;
+    border-color: #dddddd;
+    /*/ color */
+    /*color: #fff;*/
+    
+    color: white;
+    font-size: 11pt;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    cursor: pointer;
+}
+

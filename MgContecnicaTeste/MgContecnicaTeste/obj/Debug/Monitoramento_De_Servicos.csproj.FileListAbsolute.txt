@@ -1,0 +1,365 @@
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll.config
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.pdb
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe.config
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.rsp
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe.config
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.rsp
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CSharp.Core.targets
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Managed.Core.targets
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.VisualBasic.Core.targets
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.AppContext.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Collections.Immutable.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Console.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.StackTrace.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Compression.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.Primitives.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.AccessControl.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Reflection.Metadata.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.AccessControl.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Claims.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Encoding.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Primitives.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Principal.Windows.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Text.Encoding.CodePages.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.ValueTuple.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.ReaderWriter.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XmlDocument.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.XDocument.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe.config
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.rsp
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe.config
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.bootstrap.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.jQuery.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.MSAjax.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.WebForms.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.Web.Infrastructure.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\WebGrease.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.xml
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.xml
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.pdb
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.xml
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\System.Web.Optimization.resources.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CoreCompileInputs.cache
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CopyComplete
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.dll
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.pdb
+V:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csprojAssemblyReference.cache
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll.config
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.pdb
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe.config
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.rsp
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe.config
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.rsp
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.AppContext.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Console.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Claims.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe.config
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.rsp
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.jQuery.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\WebGrease.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.xml
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.xml
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.pdb
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csprojAssemblyReference.cache
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CoreCompileInputs.cache
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CopyComplete
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.dll
+D:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.pdb
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll.config
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.pdb
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe.config
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.rsp
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe.config
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.rsp
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.AppContext.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Collections.Immutable.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Console.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Compression.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.AccessControl.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Claims.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.ValueTuple.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe.config
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.rsp
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe.config
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\WebGrease.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.xml
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.xml
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.pdb
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csprojAssemblyReference.cache
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CoreCompileInputs.cache
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CopyComplete
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.dll
+E:\Projetos\Email_Sender\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.pdb
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll.config
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.pdb
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe.config
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.rsp
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe.config
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.rsp
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.AppContext.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Console.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Claims.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe.config
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.rsp
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\WebGrease.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.xml
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.xml
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.pdb
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csprojAssemblyReference.cache
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CopyComplete
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.dll
+C:\Users\Victor Hugo\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.pdb
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll.config
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Monitoramento_De_Serviços.pdb
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.exe.config
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csc.rsp
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.exe.config
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\csi.rsp
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.AppContext.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Console.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Claims.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.exe.config
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\vbc.rsp
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\WebGrease.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\System.Web.Optimization.xml
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Newtonsoft.Json.xml
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Antlr3.Runtime.pdb
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csprojAssemblyReference.cache
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CopyComplete
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.dll
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Serviços.pdb
+C:\Users\Arthur  Amorim Brito\Desktop\Monitoramento_De_Serviços\Monitoramento_De_Serviços\obj\Debug\Monitoramento_De_Servicos.csproj.CoreCompileInputs.cache

@@ -1,0 +1,133 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MgContecnicaTeste.SiteMaster" %>
+
+<!DOCTYPE html>
+ 
+<html lang="pt">
+   
+<head runat="server">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <link href="./Content/Site.css" rel="stylesheet" />
+    <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 191px;
+            height: 481px;
+        }
+
+        .auto-style2 {
+            display: block;
+            font-weight: normal;
+            font-family: Calibri;
+            font-size: 12pt;
+            color: #656565;
+            width: 561px;
+            height: 24px;
+            margin-left: 416px;
+        }
+
+        .auto-style3 {
+            height: 107px;
+            width: 809px;
+            margin-left: 0px;
+        }
+        .auto-style4 {
+            display: inline-block;
+            position: relative;
+            width: 183px;
+            padding: 5px;
+            box-shadow: 5px 5px 10px;
+            -moz-border-radius-bottomleft: 6px;
+            -moz-border-radius-bottomleft: 6px;
+            -webkit-border-bottom-left-radius: 6px;
+            -webkit-border-bottom-right-radius: 6px;
+            left: -3px;
+            top: 0px;
+        }
+        .auto-style5 {
+            margin-left: 147px;
+        }
+        .auto-style6 {
+            left: 16px;
+            top: 23px;
+            width: 111px;
+            height: 30px;
+        }
+        .auto-style7 {
+            width: 1011px;
+            height: 586px;
+        }
+    </style>
+</head>
+<body style="height: 1458px">
+    <form id="form2" runat="server">
+        <div style="margin-left: 108px; margin-top: 40px;" class="auto-style7">
+            <div style="height: 636px;">
+                <div class="auto-style2">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<asp:Label ID="Label2" runat="server" Text="EASY HEART BEAT 0.1" Font-Names="Century Gothic" Font-Size="X-Large"></asp:Label>
+                    <br />
+                    <br />
+                    <br />
+                    <div style="margin-left: -400px;" class="auto-style1">
+                        <div class="auto-style5">
+                         
+                            <table border="0" style="margin-top: 0px;" class="auto-style3">
+                                <tr>
+                                    <td>   
+                                        <div  class="wrapper" >
+                                            <input id="navigation" type="checkbox" />
+                                            <label for="navigation" class="auto-style6">
+                                            MENU
+                                            </label>
+                                            <nav>
+                                                <ul>
+                                                    <li><a href="/Monitora.aspx">Monitoramento</a> </li>
+                                                    <li><a href="/Contatos.aspx">Contatos</a> </li>
+                                                    <li><a href="/Monitora.aspx">Texto</a> </li>
+                                                    <li><a href="/Monitora.aspx">Serviços</a> </li>
+                                                    <li><a href="/Monitora.aspx">Configurações</a> </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        </table>
+                                        </div></div></div></div></div>
+
+
+
+<%--<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link href="./Content/Site.css" rel="stylesheet" />
+    <meta charset="utf-8" />--%>
+    
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+
+       
+
+
+
+
+
+               
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+            </asp:ContentPlaceHolder>
+           
+        </div>
+
+    </form>
+</body>
+</html>
